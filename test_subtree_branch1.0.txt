@@ -4,3 +4,4 @@ add parent log 2
 add log 2
 add parent log 3
 add parent log 4
+add log 3
