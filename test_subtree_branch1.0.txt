@@ -1,1 +1,2 @@
 add log 1
+add parent log 1
